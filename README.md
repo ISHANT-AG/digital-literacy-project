@@ -66,7 +66,7 @@ Created a one-page infographic using **Canva** covering: what digital literacy i
 ### Module 2 — Building a Digital Portfolio (Task 2)
 Set up a professional presence on **GitHub** — including a profile README, project repositories, and this digital literacy project repository. GitHub serves as a living portfolio that showcases practical skills to future employers and internship coordinators.
 
-### Module 3 — Coding & Collaboration Platforms (Task 3)
+### Module 3 — Coding Platforms (Task 3)
 Explored **HackerRank** by completing beginner coding challenges, and created a 5-question **Digital Literacy Awareness Quiz** using Google Forms. The quiz response data is linked to a Google Sheet for tracking.
 
 ### Module 4 — Email Etiquette & Communication (Task 4)
